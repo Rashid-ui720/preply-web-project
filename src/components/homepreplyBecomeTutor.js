@@ -19,7 +19,7 @@ class HomepreplyBecomeTutor extends PureComponent {
                                 <div class="media mb-11 pt-lg-18 pt-sm-7 pt-xs-7">
                                     <div class="media-body pl-7">
                                         <h3 class="mb-5">Tutor with Preply</h3>
-                                        <p class="mb-0 font-size-4 text-default-color">Earn money sharing your expert knowledge with students. Sign up to start tutoring online with Preply.</p>
+                                        <p class="mb-0 font-size-4 text-default-color subTitle_3Jsri">Earn money sharing your expert knowledge with students. Sign up to start tutoring online with Preply.</p>
                                         <ul class="list-unstyled pl-0 pt-7">
                                             <li class="border-0 d-flex mb-1 heading-default-color">
                                                 <i class="icon icon-zoom-2  font-size-5 text-green mr-4"></i>Find new students

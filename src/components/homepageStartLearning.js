@@ -21,7 +21,7 @@ class HomepageStartLearning extends PureComponent {
                             </div>
                             <div className="col-12 col-md-12 col-lg-12 col-xxl-12 style-title-234aq">
                                 <h2 class="text-default-color text-center px-xs-0 px-md-0 width-40P ml-auto mr-auto">Over 100,000 students join us monthly</h2>
-                                <p class="font-size-5 text-default-color text-center px-xs-9 px-md-0 width-40P ml-auto mr-auto">…and achieve their learning goals. With our expert tutors, your goals are closer than ever!</p>
+                                <p class="font-size-5 text-default-color text-center px-xs-9 px-md-0 width-40P ml-auto mr-auto subTitle_3Jsri">…and achieve their learning goals. With our expert tutors, your goals are closer than ever!</p>
                             </div>
                             <a class="font-size-5 btn btn-green text-capitalize btn-medium rounded-2 px-15" href="#">Start learning</a>
                         </div>

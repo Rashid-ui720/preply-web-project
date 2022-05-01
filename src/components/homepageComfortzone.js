@@ -19,7 +19,7 @@ class HomepageComfortzone extends PureComponent {
                             <div class="square-92 rounded-4 bg-coral text-white font-size-9 mx-auto shadow-dodger icon_wrap headIcon_Hv01"><i class="fa fa-layer-group"></i></div>
                             <div className="col-12 col-md-12 col-lg-12 col-xxl-12">
                                 <h2 class="mb-4 mb-md-4 font-size-8 text-center">Make the world your comfort zone</h2>
-                                <p class="font-size-5 text-default-color text-center px-xs-9 px-md-0 width-45P ml-auto mr-auto ">Speak naturally with professional online tutors from 185 countries</p>
+                                <p class="font-size-5 text-default-color text-center px-xs-9 px-md-0 width-45P ml-auto mr-auto subTitle_3Jsri">Speak naturally with professional online tutors from 185 countries</p>
                             </div>
                             <div class="col-12 col-lg-3 col-md-6 col-sm-8 col-xs-8">
                                 <div class="px-xl-7 px-xxl-12 pt-5 pb-3 pb-lg-9 text-center">
@@ -66,7 +66,7 @@ class HomepageComfortzone extends PureComponent {
                         <div className="row justify-content-center">
                             <div className="col-12 col-md-12 col-lg-12 col-xxl-12 pb-12">
                                 <h2 class="mb-4 mb-md-4 font-size-8 text-center">Focus on the skills you need</h2>
-                                <p class="font-size-5 text-default-color text-center px-xs-9 px-md-0 width-45P ml-auto mr-auto">Prepare to achieve your goals with private tutors</p>
+                                <p class="font-size-5 text-default-color text-center px-xs-9 px-md-0 width-45P ml-auto mr-auto subTitle_3Jsri">Prepare to achieve your goals with private tutors</p>
                             </div>
                             <div className='row'>
                                 <div class="col-12 col-lg-6 col-md-6 col-sm-12 col-xs-12 px-xl-7 px-xxl-12 px-sm-10 px-xs-10">
@@ -121,7 +121,7 @@ class HomepageComfortzone extends PureComponent {
                             </div>
                             <div className="col-12 col-md-12 col-lg-12 col-xxl-12">
                                 <h2 class="mb-4 mb-md-4 font-size-8 text-center">Request a private tutor</h2>
-                                <p class="font-size-5 text-default-color text-center px-xs-9 px-md-0 width-45P ml-auto mr-auto">Post your requirements and let tutors find you</p>
+                                <p class="font-size-5 text-default-color text-center px-xs-9 px-md-0 width-45P ml-auto mr-auto subTitle_3Jsri">Post your requirements and let tutors find you</p>
                             </div>
                             <a class="btn btn-green btn-medium rounded-3 font-size-4" href="#">Post request</a>
                         </div>

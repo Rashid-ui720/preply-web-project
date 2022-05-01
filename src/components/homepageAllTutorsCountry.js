@@ -15,7 +15,7 @@ class HomepageAllTutorsCountry extends PureComponent {
             <>
                 <section className="pb-lg-15 margin-reverse-001">
                     <div className="container wrapper___1CJxl pb-10">
-                        <div className="row">
+                        <div className="row plate_Fdsp">
                             <div class="col-12 col-xl-4 col-lg-4 col-sm-12 col-xs-12 px-xl-4 px-xxl-8 plate___FcpSs">
                                 <div class="media tutor-padd">
                                     <div class="px-6 py-2"><i class="fa fa-user font-size-7 text-green"></i></div>
