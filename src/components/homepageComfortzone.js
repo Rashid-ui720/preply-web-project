@@ -70,7 +70,7 @@ class HomepageComfortzone extends PureComponent {
                             </div>
                             <div className='row'>
                                 <div class="col-12 col-lg-6 col-md-6 col-sm-12 col-xs-12 px-xl-7 px-xxl-12 px-sm-10 px-xs-10">
-                                    <div class="media mb-11">
+                                    <div class="media mb-11 ico_123">
                                         <div class="media-icon px-6 py-5 bg-yellow-2-opacity-2 rounded-5">
                                             <i class="fa fa-search text-yellow-2"></i>
                                         </div>
@@ -80,8 +80,8 @@ class HomepageComfortzone extends PureComponent {
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-12 col-lg-6 col-md-6 col-sm-12 col-xs-12 px-xl-7 px-xxl-12 px-sm-10 px-xs-10">
-                                    <div class="media mb-11">
+                                <div class="col-12 col-lg-6 col-md-6 col-sm-12 col-xs-12 px-xl-7 px-xxl-12 px-sm-10 px-xs-10 icon_1s2">
+                                    <div class="media mb-11 ico_123">
                                         <div class="media-icon px-6 py-5 bg-green-opacity-2 rounded-5">
                                             <i class="icon icon-layout-11 text-green"></i>
                                         </div>
@@ -91,8 +91,8 @@ class HomepageComfortzone extends PureComponent {
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-12 col-lg-6 col-md-6 col-sm-12 col-xs-12 px-xl-7 px-xxl-12 px-sm-10 px-xs-10">
-                                    <div class="media mb-11">
+                                <div class="col-12 col-lg-6 col-md-6 col-sm-12 col-xs-12 px-xl-7 px-xxl-12 px-sm-10 px-xs-10 icon_1s2">
+                                    <div class="media mb-11 ico_123">
                                         <div class="media-icon px-6 py-5 bg-yellow-2-opacity-2 rounded-5">
                                             <i class="fa fa-search text-yellow-2"></i>
                                         </div>
@@ -102,8 +102,8 @@ class HomepageComfortzone extends PureComponent {
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-12 col-lg-6 col-md-6 col-sm-12 col-xs-12 px-xl-7 px-xxl-12 px-sm-10 px-xs-10">
-                                    <div class="media">
+                                <div class="col-12 col-lg-6 col-md-6 col-sm-12 col-xs-12 px-xl-7 px-xxl-12 px-sm-10 px-xs-10 icon_1s2">
+                                    <div class="media ico_123">
                                         <div class="media-icon px-6 py-5 bg-red-opacity-2 rounded-5">
                                             <i class="fa fa-industry text-red"></i>
                                         </div>

@@ -67,7 +67,19 @@
     background: #f2f2f2;
 }
 
+@media screen and (min-device-width: 356px) and (max-device-width: 1000px) {
+       .iconWrap___1OlI1 {
+           margin-top: 70px;
+           padding-left: 65px;
+       }
+}
 
+@media screen and (min-device-width: 356px) and (max-device-width: 480px) {
+       .ico_123 {
+           margin-left: 10px !important;
+           margin-right: 10px !important;
+       }
+}
 
 .step-img {
     width: 100%;
